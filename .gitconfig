@@ -1,0 +1,12 @@
+[user]
+	name = Ruben Sanchez
+	email = r@rubensanchez.dev
+[core]
+	autocrlf = input
+	excludesfile = /Users/ruben/.gitignore
+[credential]
+	helper = osxkeychain
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = master
