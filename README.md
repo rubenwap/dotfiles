@@ -17,4 +17,8 @@ yadm clone git@github.com:rubenwap/dotfiles.git
 TODO:
 
 - Add the bootstrap script to enable signed git commits
-- Double check whether changes are needed to support M1 macs (some `brew` install paths are different)
+- Fish keybindings to fzf can throw an error because the path is different in M1 and Intel macs
+- M1 macs need to have `/opt/homebrew/bin` in the path too
+- Make fish default 
+
+(M1 specific issues can be solved with the templating yadm provides)
