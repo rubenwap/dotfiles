@@ -16,8 +16,8 @@ yadm clone git@github.com:rubenwap/dotfiles.git
 
 TODO:
 
-- Add the bootstrap script to enable signed git commits
-- Template to generate different gitconfig depending on supplied email
-- Fish keybindings to fzf can throw an error because the path is different in M1 and Intel macs
-- M1 macs need to have `/opt/homebrew/bin` in the path too
-- Make fish default 
+- [ ] Add the bootstrap script to enable signed git commits
+- [ ] Template to generate different gitconfig depending on supplied email
+- [ ] Fish keybindings to fzf can throw an error because the path is different in M1 and Intel macs
+- [ ] M1 macs need to have `/opt/homebrew/bin` in the path too
+- [ ] Make fish default 
