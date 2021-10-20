@@ -103,3 +103,4 @@ tnoremap <Esc> <C-\><C-n>
 
 """ fzf
 set rtp+=/usr/local/opt/fzf
+set rtp+=/opt/homebrew/opt/fzf
