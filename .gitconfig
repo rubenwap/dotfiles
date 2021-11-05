@@ -1,6 +1,7 @@
 [user]
 	name = Ruben Sanchez
 	email = r@rubensanchez.dev
+	signingkey = 44FC1B363E84DC12CD9289CA1ECBCE1C4447AE47
 [core]
 	autocrlf = input
 	excludesfile = /Users/ruben/.gitignore
@@ -10,3 +11,5 @@
 	gpgsign = true
 [init]
 	defaultBranch = master
+[gpg]
+	program = gpg2
